@@ -11,6 +11,9 @@
     <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML" async></script>
   </head>
   <body>
+    {% if page.mathjax %}
+      {% include mathjax.html %}
+    {% endif %}
     <header class="page-header" role="banner">
       {% include header.html %}
     </header>
