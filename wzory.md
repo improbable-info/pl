@@ -16,3 +16,8 @@ $$\begin{aligned}
 \dot{y} & = \rho x - y - xz \\
 \dot{z} & = -\beta z + xy
 \end{aligned}$$
+
+### Przy okazji...
+interaktyne gry w życie też będzie można osadzić na stronie.
+Tutaj przykład:
+https://github.com/nomatteus/conway-game-of-life-js 
