@@ -1,6 +1,6 @@
 ## Prawdopodobnie wszystko jest inaczej
 
-![Okładka Prawdopodobnie wszystko jest inaczej](assets/img/prawdopodobnie.jpg)
+![Okładka Prawdopodobnie wszystko jest inaczej](../assets/img/prawdopodobnie.jpg)
 
 ### Spis treści
 
