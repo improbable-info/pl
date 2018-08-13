@@ -1,6 +1,3 @@
----
-mathjax: true
----
 ## Kontakt
 
 ### Jiří Šrajer
@@ -15,9 +12,3 @@ z którego wyśliśmy.
 (Podpowiedź: jeżeli sam nie dasz rady znaleźć więcej niż
 jedno takie miejsce, to rozwiązanie możesz znaleźć w książce
 "Prawdopodobnie wszystko jest inaczej")
-
-$$\begin{aligned}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{aligned}$$
