@@ -2,5 +2,5 @@
 
 ### Jiří Šrajer
 
-[pl@improbable.info]
+[pl@improbable.info](mailto:pl@improbable.info)
 
