@@ -1,7 +1,18 @@
-## Improbable info
+## Wprowadzenie
 
-- [O autorze](autor)
-- [Prawdopodobnie wszystko jest inaczej](prawdopodobnie)
-- [Krótka rozprawa o czasoprzestrzeni](czasoprzestrzen)
-- [Dodatkowe informacje](dodatki)
-- [Kontakt](kontakt)
+Na początek parę zdań [o mnie](autor).
+
+W trakcie rozważań nad sztuczną inteligencją zainteresowało mnie pytanie,
+jakie wyobrażenie o świecie mogłyby sobie utworzyć w przyszłości inteligentne komputery
+i jak znacznie mogłoby się ono różnić od naszego.
+Uświadomiłem sobie, że nasze wyobrażenie wcale nie musi być prawidłowe
+i moje przemyślenia opisałem w książce [Prawdopodobnie wszystko jest inaczej](prawdopodobnie).
+Jednym z poruszonych tematów była kwestia geometrii Wszechświata.
+Na początku chciałem tylko pokazać, że może być inaczej niż uważamy,
+ale czasem doszedłem do wniosku, że nasze wyobrażenie jest blędne
+i jest potrzebne utworzyć nowy model czasoprzestrzeni.
+Po kilkuletniej intenzywnej pracy spisałem podstawowe idee nowego modelu
+w książce [Krótka rozprawa o czasoprzestrzeni](czasoprzestrzen).
+Do opracowania ostatecznego modelu pozostało jeszcze dużo pracy ...
+Dla zainteresowanych podaję jeszcze [Dodatkowe informacje](dodatki)
+i [Kontakt](kontakt).
