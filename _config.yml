@@ -3,3 +3,6 @@ title: Improbable info
 description: Nieprawdopodobne informacje są najwięcej warte
 show_downloads: false
 google_analytics:
+
+plugins:
+  - jemoji
