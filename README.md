@@ -14,5 +14,6 @@ i jest potrzebne utworzyć nowy model czasoprzestrzeni.
 Po kilkuletniej intenzywnej pracy spisałem podstawowe idee nowego modelu
 w książce [Krótka rozprawa o czasoprzestrzeni](czasoprzestrzen).
 Do opracowania ostatecznego modelu pozostało jeszcze dużo pracy ...
+
 Dla zainteresowanych podaję [Dodatkowe informacje](dodatki)
 i [Kontakt](kontakt).
