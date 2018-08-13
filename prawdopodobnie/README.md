@@ -4,6 +4,7 @@
 
 ### Spis treści
 
+1. [Wprowadzenie](wprowadzenie)
 1. [Rozdział 1](rozdzial1)
 1. [Rozdział 2](rozdzial2)
 1. [Rozdział 3](rozdzial3)
