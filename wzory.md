@@ -21,3 +21,9 @@ $$\begin{aligned}
 interaktyne gry w życie też będzie można osadzić na stronie.
 Tutaj przykład:
 https://github.com/nomatteus/conway-game-of-life-js 
+
+### zmienne
+
+Zmienna site.github.repository_name = {{ site.github.repository_name }}
+
+
