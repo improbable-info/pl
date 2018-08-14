@@ -2,23 +2,42 @@
 ## Prawdopodobnie wszystko jest inaczej
 ### Spis treści
 
-1. [Wprowadzenie](wprowadzenie)
-1. [I. Czy komputer może myśleć?](rozdzial1)
-1. [II. Definiowanie pojęć](rozdzial2)
-1. [III. Co to jest informacja?](rozdzial3)
-1. [IV. Modelowanie rzeczywistości](rozdzial4)
-1. [V. Intelektualne możliwości współczesnych komputerów](rozdzial5)
+[Wprowadzenie](wprowadzenie)
+
+[I. Czy komputer może myśleć?](rozdzial1)
+
+[II. Definiowanie pojęć](rozdzial2)
+
+[III. Co to jest informacja?](rozdzial3)
+
+[IV. Modelowanie rzeczywistości](rozdzial4)
+
+[V. Intelektualne możliwości współczesnych komputerów](rozdzial5)
+
 [VI. Kilka uwag na temat ewolucji](https://www.mybook.pl/6/0/bid/303)
+
 [VII. Dlaczego sądzimy, że obowiązują jakieś prawa przyrody?](https://www.mybook.pl/6/0/bid/303)
+
 [VIII. Rozważania na temat geometrii Wszechświata](https://www.mybook.pl/6/0/bid/303)
+
 [IX. Co uważamy za możliwe, a co za niemożliwe](https://www.mybook.pl/6/0/bid/303)
+
 [X. Dlaczego sądzimy, że myślimy logicznie?](https://www.mybook.pl/6/0/bid/303)
+
 [XI. Skąd się biorą nowe pomysły?](https://www.mybook.pl/6/0/bid/303)
+
 [XII. Wiara, wolna wola oraz moralność ludzi i komputerów](https://www.mybook.pl/6/0/bid/303)
+
 [XIII. Możliwości przyszłych komputerów](https://www.mybook.pl/6/0/bid/303)
+
 [XIV. Zakończenie](https://www.mybook.pl/6/0/bid/303)
+
 [DODATEK A Przykłady automatów komórkowych](https://www.mybook.pl/6/0/bid/303)
+
 [DODATEK B Program w PHP do testowania automatów komórkowych](https://www.mybook.pl/6/0/bid/303)
+
 [DODATEK C Różne modele czasoprzestrzeni](https://www.mybook.pl/6/0/bid/303)
+
 [DODATEK D Kilka zadań dla dociekliwych](https://www.mybook.pl/6/0/bid/303)
+
 [Literatura](https://www.mybook.pl/6/0/bid/303)
