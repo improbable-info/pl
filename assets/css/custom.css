@@ -10,3 +10,15 @@
 .page-header {
     background-image: url(../img/bgimage-blur.jpg)
 }
+
+.btn {
+    color: #faebd7;
+    background-color: rgba(0,0,0,0.3);
+    border-color: rgba(0,0,0,0.2);
+}
+
+.btn:hover {
+    text-decoration: none;
+    background-color: rgba(0,0,0,0.5);
+    border-color: rgba(0,0,0,0.3);
+}
