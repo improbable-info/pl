@@ -2,3 +2,11 @@
     text-align: justify;
     /* text-indent: 3em; */ 
 }
+
+.page-header h1 a {
+    color: #faebd7;
+}
+
+.page-header {
+    background-image: url(../img/bgimage.jpg)
+}
