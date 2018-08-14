@@ -1,4 +1,4 @@
-##I. Czy komputer może myśleć?
+## I. Czy komputer może myśleć?
 
 Na tak postawione pytanie można odpowiedzieć jednym słowem i więcej tym się nie przejmować.
 Wiele osób pewnie by tak zrobiło. Powiedzieliby że nie, i być może mieliby rację.
