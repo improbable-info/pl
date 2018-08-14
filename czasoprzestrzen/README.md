@@ -1,0 +1,1 @@
+Krótka rozprawa o czasoprzestrzeni
