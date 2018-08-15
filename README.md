@@ -1,6 +1,6 @@
-## Wprowadzenie
+## Nowy model Wszechświata
 
-Na początek parę zdań [o mnie](autor).
+Jiří Šrajer: na początek parę zdań [o mnie](autor).
 
 W trakcie rozważań nad sztuczną inteligencją zainteresowało mnie pytanie,
 jakie wyobrażenie o świecie mogłyby sobie utworzyć w przyszłości inteligentne komputery
@@ -13,7 +13,7 @@ ale czasem doszedłem do wniosku, że nasze wyobrażenie jest blędne
 i jest potrzebne utworzyć nowy model czasoprzestrzeni.
 Po kilkuletniej intenzywnej pracy spisałem podstawowe idee nowego modelu
 w książce [Krótka rozprawa o czasoprzestrzeni](czasoprzestrzen).
-Do opracowania ostatecznego modelu pozostało jeszcze dużo pracy ...
+Aktualnie pracuję nad komputerowym modelem Wszechświata według moich założeń.
 
 Dla zainteresowanych podaję [Dodatkowe informacje](dodatki)
 i [Kontakt](kontakt).
