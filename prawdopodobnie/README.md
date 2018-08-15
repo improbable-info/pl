@@ -10,11 +10,11 @@ Książkę można zamówić pod adresem [https://www.mybook.pl/6/0/bid/303](http
 
 [II. Definiowanie pojęć](rozdzial2)
 
-[III. Co to jest informacja?](rozdzial3)
+[III. Co to jest informacja?](https://www.mybook.pl/6/0/bid/303)
 
-[IV. Modelowanie rzeczywistości](rozdzial4)
+[IV. Modelowanie rzeczywistości](https://www.mybook.pl/6/0/bid/303)
 
-[V. Intelektualne możliwości współczesnych komputerów](rozdzial5)
+[V. Intelektualne możliwości współczesnych komputerów](https://www.mybook.pl/6/0/bid/303)
 
 [VI. Kilka uwag na temat ewolucji](https://www.mybook.pl/6/0/bid/303)
 
