@@ -1,14 +1,14 @@
 ## Krótka rozprawa o czasoprzestrzeni
 
-Spis treści
+### Spis treści
 
-Wprowadzenie
+[Wprowadzenie](wprowadzenie)
 
-I. Jak powstaje model Wszechświata
+[I. Jak powstaje model Wszechświata](rozdzial1)
 
-II. Widzialna część Wszechświata
+[II. Widzialna część Wszechświata](rozdzial2)
 
-III. Matematyka i mózg
+[III. Matematyka i mózg](rozdzial3)
 
 IV. Geometrie nieeuklidesowe i ustalanie odległości
 
