@@ -33,9 +33,9 @@ Patrząc przez okno widzimy prosto naciągnięte światłowody, i wyobrażamy so
 Możemy też ustalić długość każdego światłowodu
 (na przykład przez wysłanie światłowodem sygnału świetlnego i zaczekanie na jego odbicie).
 Tą długość postrzegamy, jako odległość światełka od nas w linii prostej.
-Punkty jednakowo od nas oddalone będą leżały na równoleżnikach.
+Punkty jednakowo od nas oddalone będą leżały na równoleżnikach.*
 
-Jeżeli będziemy przekonani, że wszystkie światełka znajdują się w jednej płaszczyźnie,
+*Jeżeli będziemy przekonani, że wszystkie światełka znajdują się w jednej płaszczyźnie,
 to możemy na kartce papieru narysować odpowiednią mapę.
 Poszczególnym równoleżnikom coraz bardziej od nas oddalonym będą odpowiadały koła o coraz większym promieniu.
 Kiedy przekroczymy równik, długości równoleżników będą się zmniejszać,
@@ -50,7 +50,7 @@ i ustalić tor światła w rozszerzającym się Wszechświecie. Mój tok myślen
 Cały widzialny Wszechświat możemy sobie wyobrazić jakoby poukładany ze sfer wokół nas o coraz większym promieniu.
 Im większy promień, tym starsza sfera (rys.1).
 
-![rysunek1](assets/img/rysunek1.jpg)
+![rysunek1](../assets/img/rysunek1.jpg)
 
 Rysunek 1.
 
