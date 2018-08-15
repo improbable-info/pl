@@ -1,5 +1,7 @@
 ## Krótka rozprawa o czasoprzestrzeni
 
+### (Wszystko, co czytałeś wcześniej, jest już przeszłością)
+
 ### Spis treści
 
 [Wprowadzenie](wprowadzenie)
