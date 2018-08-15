@@ -49,7 +49,9 @@ i ustalić tor światła w rozszerzającym się Wszechświecie. Mój tok myślen
 
 Cały widzialny Wszechświat możemy sobie wyobrazić jakoby poukładany ze sfer wokół nas o coraz większym promieniu.
 Im większy promień, tym starsza sfera (rys.1).
-                    
+
+![rysunek1](assets/img/rysunek1.png)
+
 Rysunek 1.
 
 Jeżeli dodamy czas jako następny wymiar i każdą sferę umieścimy w odpowiednim czasie,
