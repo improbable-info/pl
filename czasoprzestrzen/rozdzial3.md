@@ -33,15 +33,34 @@ $$ d = \sqrt {(y_1-x_1)^2+ ... +(y_n-x_n)^2}  $$,
 
 to otrzymamy przestrzeń euklidesową.)
 
-Różne kształty geometryczne, na przykład prosta albo okrąg, są w takim ujęciu zbiorem par liczb rzeczywistych spełniających określone równanie. Problemy geometryczne można w ten sposób przekształcić na rozwiązywanie równań, co z praktycznego punktu widzenia bywa wygodniejsze.
-Pozornie wydaje się, że jest obojętne, czy problem rozwiązujemy geometrycznie czy analitycznie, bo wynik powinien być taki sam. Nie chodzi jednak tylko o wynik, ale również o zrozumienie całego problemu. Jeżeli tylko rozwiązujemy równania i nie mamy przez cały czas świadomości tego, co właściwie obliczamy, mogą później powstać problemy przy interpretacji wyników i dopasowywaniu ich do rzeczywistości. Jeżeli problem formułujemy geometrycznie, można czasami łatwiej zauważyć różne aspekty, których w równaniach nie widzimy.
+Różne kształty geometryczne, na przykład prosta albo okrąg, są w takim ujęciu zbiorem par liczb rzeczywistych
+spełniających określone równanie. Problemy geometryczne można w ten sposób przekształcić na rozwiązywanie równań,
+co z praktycznego punktu widzenia bywa wygodniejsze.
+
+Pozornie wydaje się, że jest obojętne, czy problem rozwiązujemy geometrycznie czy analitycznie,
+bo wynik powinien być taki sam. Nie chodzi jednak tylko o wynik, ale również o zrozumienie całego problemu.
+Jeżeli tylko rozwiązujemy równania i nie mamy przez cały czas świadomości tego, co właściwie obliczamy,
+mogą później powstać problemy przy interpretacji wyników i dopasowywaniu ich do rzeczywistości.
+Jeżeli problem formułujemy geometrycznie, można czasami łatwiej zauważyć różne aspekty,
+których w równaniach nie widzimy.
+
 Pokażemy to na przykładzie grawitacji. Zgodnie z  teorią grawitacji Newtona mamy równanie
 
+$$ F = G * \frac{M * m}{r^2}  $$
 
+gdzie F jest siłą przyciągającą, G stałą grawitacji, M masą jednego obiektu,  m masą drugiego obiektu,
+r odległością pomiędzy  obiektami. Równanie sprawdza się w codziennej praktyce, natomiast wygląda na to,
+że dla bardzo dużych odległości może wymagać modyfikacji. Tylko nie wiemy jakich, ani dlaczego.
+Możemy postępować podobnie jak Kepler przy badaniu ruchu planet.
+Zebrać ogromną ilość informacji uzyskanych na podstawie obserwacji i próbować modyfikować równanie w taki sposób,
+aby otrzymać zgodność z otrzymanymi danymi. Nawet, jeżeli nam się uda, to nie będziemy wiedzieli, dlaczego tak jest.
 
-gdzie F jest siłą przyciągającą, G stałą grawitacji, M masą jednego obiektu,  m masą drugiego obiektu, r odległością pomiędzy  obiektami. Równanie sprawdza się w codziennej praktyce, natomiast wygląda na to, że dla bardzo dużych odległości może wymagać modyfikacji. Tylko nie wiemy jakich, ani dlaczego. Możemy postępować podobnie jak Kepler przy badaniu ruchu planet. Zebrać ogromną ilość informacji uzyskanych na podstawie obserwacji i próbować modyfikować równanie w taki sposób, aby otrzymać zgodność z otrzymanymi danymi. Nawet, jeżeli nam się uda, to nie będziemy wiedzieli, dlaczego tak jest.
-Jeżeli spróbujemy na grawitację spojrzeć geometrycznie, jako na zakrzywienie czasoprzestrzeni, trudniej będzie uzyskać dokładne obliczenia, natomiast dużo łatwiej możemy dostrzec, że problem jest związany z nieskończonością.
-Nie trzeba sobie wyobrażać nieskończonej czterowymiarowej czasoprzestrzeni, wystarczy ograniczyć się do dwóch wymiarów. Dwuwymiarową czasoprzestrzeń możemy sobie wyobrazić, jako naprężoną płaszczyznę, w której pod ciężarem obiektu tworzy się dołek (rys. 6).
+Jeżeli spróbujemy na grawitację spojrzeć geometrycznie, jako na zakrzywienie czasoprzestrzeni,
+trudniej będzie uzyskać dokładne obliczenia, natomiast dużo łatwiej możemy dostrzec, że problem jest związany z nieskończonością.
+
+Nie trzeba sobie wyobrażać nieskończonej czterowymiarowej czasoprzestrzeni, wystarczy ograniczyć się do dwóch wymiarów.
+Dwuwymiarową czasoprzestrzeń możemy sobie wyobrazić, jako naprężoną płaszczyznę,
+w której pod ciężarem obiektu tworzy się dołek (rys. 6).
 
 
 
