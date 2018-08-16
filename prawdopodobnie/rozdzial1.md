@@ -86,3 +86,5 @@ My będziemy trzymać się jak najogólniejszej definicji i szukać pierwszych o
 
 Najpierw zastanówmy się, jak powstają pojęcia, na ile są niedokładne i jaka jest nadzieja na to
 by komputer przynajmniej niektóre pojęcia rozumiał w sposób podobny do naszego sposobu rozumienia.
+
+## [II. Definiowanie pojęć](rozdzial2)
