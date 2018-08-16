@@ -1,7 +1,7 @@
 ---
 mathjax: true
 ---
-# Matematika i mózg
+## III. Matematika i mózg
 
 Często ten sam problem można rozwiązywać za pomocą równań matematycznych,
 albo geometrycznie. Grawitację można na przykład uznać za siłę i opisać równaniem,
