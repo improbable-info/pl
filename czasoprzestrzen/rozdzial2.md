@@ -57,6 +57,8 @@ Rysunek 1.
 Jeżeli dodamy czas jako następny wymiar i każdą sferę umieścimy w odpowiednim czasie,
 to sfery utworzą czterowymiarowy stożek (rys.2).
 
+![rysunek2](../assets/img/rysunek2.png)
+
 Rysunek 2.
 
 *Jeżeli ktoś ma trudności z wyobrażeniem sobie czterowymiarowego stożka,
@@ -67,13 +69,14 @@ które po dodaniu czasu, jako następnego wymiaru utworzą zwykły stożek.*
 
 Jeżeli Wszechświat rozszerza się, to przy cofaniu w czasie musi się kurczyć. Sfery najstarsze muszą być małe (rys.3). 
 
-                       
+![rysunek3](../assets/img/rysunek3.jpg)                       
 
 Rysunek 3.
 
 
 Obiekty, które nam wydają się bardzo od siebie odlegle, mogą być w czasoprzestrzeni blisko siebie (rys.4).
-                        
+
+![rysunek4](../assets/img/rysunek4.jpg)
 
 Rysunek 4.
 
@@ -84,7 +87,7 @@ Jednorodność promieniowania tła przestanie być problemem, jeżeli uświadomi
 że promieniowanie tła, chociaż dociera do nas ze wszystkich stron z bardzo dużych odległości,
 przychodzi z małego obszaru czasoprzestrzeni (rys.5).
 
-
+![rysunek5](../assets/img/rysunek5.jpg)
 
 Rysunek 5.
 
