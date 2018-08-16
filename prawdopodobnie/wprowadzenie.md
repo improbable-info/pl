@@ -26,3 +26,5 @@ nasz pogląd na świat byłby całkowicie inny. Również w tym przypadku byliby
 Możliwe, że wszystko jest zupełnie inaczej, niż myślimy. Celem tej książki nie jest rozwiązanie jakichś konkretnych problemów, lecz impuls do doskonalenia własnego umysłu przy jednoczesnej próbie zrozumienia, w jaki sposób mógłby myśleć komputer.
 
 Nie wiem czy kiedykolwiek uda się nam nauczyć komputery myśleć, ale jeżeli spróbujemy, to wówczas będzie możliwe zrozumienie nie tylko wielu nowych rzeczy o świecie, ale także o nas samych.
+
+[I. Czy komputer może myśleć?](rozdzial1)
