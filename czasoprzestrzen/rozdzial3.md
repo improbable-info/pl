@@ -29,7 +29,7 @@ zamiast parą liczb, będzie zdefiniowany ciągiem n liczb rzeczywistych x=(x1,x
 Jeśli dla każdej pary elementów x i y wprowadzimy pojęcie wzajemnej ich odległości
 zdefiniowanej wzorem
 
-$$ d=sqrt {x^2}  $$,
+$$ d=\sqrt {x^2 + y^2}  $$,
 
 to otrzymamy przestrzeń euklidesową.)
 
