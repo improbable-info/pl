@@ -62,24 +62,54 @@ Nie trzeba sobie wyobrażać nieskończonej czterowymiarowej czasoprzestrzeni, w
 Dwuwymiarową czasoprzestrzeń możemy sobie wyobrazić, jako naprężoną płaszczyznę,
 w której pod ciężarem obiektu tworzy się dołek (rys. 6).
 
-
-
+![rysunek6](../assets/img/rysunek6.png)
 
 Rysunek 6
 
- Jeżeli mamy nieskończoną płaszczyznę, to deformacja może rozciągać się w nieskończoność, zgodnie z opisem powyżej podanego równania. Można sobie natomiast łatwo wyobrazić czasoprzestrzeń, jako elastyczną kulę. W tym przypadku nie mamy żadnej nieskończoności i deformacja będzie ograniczona tylko do jednej półkuli (rys 7).  
+Jeżeli mamy nieskończoną płaszczyznę, to deformacja może rozciągać się w nieskończoność,
+zgodnie z opisem powyżej podanego równania. Można sobie natomiast łatwo wyobrazić czasoprzestrzeń jako elastyczną kulę.
+W tym przypadku nie mamy żadnej nieskończoności i deformacja będzie ograniczona tylko do jednej półkuli (rys 7).  
 
-
-
+![rysunek7](../assets/img/rysunek7.png)
 
 Rysunek 7
 
-Poza tym, że od razu widzimy, że w tym wypadku trzeba równania modyfikować, mamy od razu wskazówkę w jaki sposób. Jednocześnie możemy sobie uświadomić, że w równaniach Newtona (i nie tylko Newtona, ale w prawie wszystkich) jest "ukryte" założenie  istnienia nieskończoności. 
+Poza tym, że od razu widzimy, że w tym wypadku trzeba równania modyfikować, mamy od razu wskazówkę w jaki sposób. Jednocześnie możemy sobie uświadomić, że w równaniach Newtona (i nie tylko Newtona, ale w prawie wszystkich)
+jest "ukryte" założenie  istnienia nieskończoności. 
 
-Problem nieskończoności jest w pewnym sensie kluczowy. Jeżeli Wszechświat jest skończony, musi być zakrzywiony. 
-Już wcześniej pokazaliśmy, że w drodze obserwacji nie można wykryć żadnej krzywizny przestrzeni. Wynika to z faktu, że tak naprawdę widzimy tylko światło, które jest od nas w odległości zero. Obraz niezakrzywionej trójwymiarowej przestrzeni powstaje tylko w naszym umyśle. Nie mamy możliwości przemieszczania się na duże odległości i prowadzenia jakichś pomiarów odległości lub kątów pomiędzy różnymi galaktykami, które na dodatek są przez cały czas w ruchu. Z jednego miejsca w przestrzeni nie można zmierzyć jej krzywizny. 
-Teraz widzimy, że obliczenia też mogą być mylące. Z równań może wychodzić niezakrzywiona przestrzeń dlatego, że używamy matematyki, w której oś liczbowa jest nieskończona. Jeżeli na początku zakładamy, że pusta przestrzeń jest opisana przez równania, które w jakiś sposób zakładają jej nieskończoność, to nic dziwnego, że później otrzymamy wynik, że przestrzeń jest nieskończona.
+Problem nieskończoności jest w pewnym sensie kluczowy. Jeżeli Wszechświat jest skończony, musi być zakrzywiony.
 
-Z drugiej strony, za skończonością przestrzeni przemawia kilka logicznych argumentów. Po pierwsze - żadnej nieskończoności w rzeczywistym świecie nie można potwierdzić - ani obserwacyjnie, ani eksperymentalnie. Po drugie - z przestrzeni skończonej nie może stać się w skończonym czasie przestrzeń nieskończona. Gdyby przestrzeń miała być nieskończona, to musiałaby być nieskończona już na początku. Wydaje się jednak, że czas i przestrzeń są powiązane w czasoprzestrzeni w taki sposób, że to, co jest dla jednego obserwatora czasem, może być dla innego obserwatora przestrzenią i na odwrót. W tym wypadku nie wydaje się, że Wszechświat mógłby istnieć tylko przez skończony czas a przestrzeń byłaby nieskończona.
-Skończony Wszechświat daje także możliwość wytłumaczenia zjawisk, których współczesna kosmologia nie potrafi wytłumaczyć. Na przykład istnienie ogromnych czarnych dziur w bardzo młodym Wszechświecie. Jeżeli założymy, że Wszechświat ma kształt kuli, to odległości obserwowanych obiektów mogą być inne, niż myślimy. W niezakrzywionej przestrzeni intensywność światła maleje z kwadratem odległości. Natomiast na powierzchni kuli fala światła najpierw słabnie, ale po osiągnięciu drugiej półkuli ponownie się wzmacnia. Może też przebiegać po powierzchni kuli kilkakrotnie tam i z powrotem. Odległości i wiek widzialnych obiektów mogą być w tym przypadku całkowicie inne niż kiedy zakładamy, że przestrzeń jest niezakrzywiona.
-Na tym etapie nie mamy żadnego dowodu na to, że przestrzeń jest skończona. Mamy natomiast powody, aby zbadać sprawę dokładniej. Jeżeli założymy możliwość, że przestrzeń jest skończona, to z tego wynika, że nie może być przestrzenią euklidesową. W tym przypadku trzeba się przyjrzeć geometriom nieeuklidesowym.
+Już wcześniej pokazaliśmy, że w drodze obserwacji nie można wykryć żadnej krzywizny przestrzeni.
+Wynika to z faktu, że tak naprawdę widzimy tylko światło, które jest od nas w odległości zero.
+Obraz niezakrzywionej trójwymiarowej przestrzeni powstaje tylko w naszym umyśle.
+Nie mamy możliwości przemieszczania się na duże odległości i prowadzenia jakichś pomiarów odległości
+lub kątów pomiędzy różnymi galaktykami, które na dodatek są przez cały czas w ruchu.
+Z jednego miejsca w przestrzeni nie można zmierzyć jej krzywizny.
+
+Teraz widzimy, że obliczenia też mogą być mylące. Z równań może wychodzić niezakrzywiona przestrzeń dlatego,
+że używamy matematyki, w której oś liczbowa jest nieskończona. Jeżeli na początku zakładamy,
+że pusta przestrzeń jest opisana przez równania, które w jakiś sposób zakładają jej nieskończoność,
+to nic dziwnego, że później otrzymamy wynik, że przestrzeń jest nieskończona.
+
+Z drugiej strony, za skończonością przestrzeni przemawia kilka logicznych argumentów.
+Po pierwsze - żadnej nieskończoności w rzeczywistym świecie nie można potwierdzić - ani obserwacyjnie,
+ani eksperymentalnie. Po drugie - z przestrzeni skończonej nie może stać się w skończonym czasie
+przestrzeń nieskończona. Gdyby przestrzeń miała być nieskończona, to musiałaby być nieskończona już na początku.
+Wydaje się jednak, że czas i przestrzeń są powiązane w czasoprzestrzeni w taki sposób, że to,
+co jest dla jednego obserwatora czasem, może być dla innego obserwatora przestrzenią i na odwrót.
+W tym wypadku nie wydaje się, że Wszechświat mógłby istnieć tylko przez skończony czas
+a przestrzeń byłaby nieskończona.
+Skończony Wszechświat daje także możliwość wytłumaczenia zjawisk,
+których współczesna kosmologia nie potrafi wytłumaczyć. Na przykład istnienie ogromnych czarnych dziur
+w bardzo młodym Wszechświecie. Jeżeli założymy, że Wszechświat ma kształt kuli,
+to odległości obserwowanych obiektów mogą być inne, niż myślimy.
+W niezakrzywionej przestrzeni intensywność światła maleje z kwadratem odległości.
+Natomiast na powierzchni kuli fala światła najpierw słabnie, ale po osiągnięciu drugiej półkuli ponownie się wzmacnia.
+Może też przebiegać po powierzchni kuli kilkakrotnie tam i z powrotem.
+Odległości i wiek widzialnych obiektów mogą być w tym przypadku całkowicie inne niż kiedy zakładamy,
+że przestrzeń jest niezakrzywiona.
+
+Na tym etapie nie mamy żadnego dowodu na to, że przestrzeń jest skończona.
+Mamy natomiast powody, aby zbadać sprawę dokładniej. Jeżeli założymy możliwość, że przestrzeń jest skończona,
+to z tego wynika, że nie może być przestrzenią euklidesową.
+W tym przypadku trzeba się przyjrzeć geometriom nieeuklidesowym.
