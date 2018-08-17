@@ -1,4 +1,4 @@
 ## Dodatkowe informacje
 
-### [Automaty komórkowe](./automaty/readme.md)
+### [Automaty komórkowe](automaty.md)
 
