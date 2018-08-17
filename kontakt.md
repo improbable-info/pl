@@ -12,3 +12,7 @@ z którego wyśliśmy.
 (Podpowiedź: jeżeli sam nie dasz rady znaleźć więcej niż
 jedno takie miejsce, to rozwiązanie możesz znaleźć w książce
 "Prawdopodobnie wszystko jest inaczej")
+
+Dodatkowo proszę podać kod, który otrzymasz jako sumę odpowiedzi
+zadań matematyczno-logicznych z zakładki "Dodatkowe informacje"
+które potrafisz prawidłowo rozwiązać.
