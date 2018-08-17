@@ -39,3 +39,5 @@ Gdybym pokazał tylko wyniki mojej pracy, ich pełne zrozumienie mogłoby być t
 Bardziej celowe może być pokazanie całego rozumowania, które do tego doprowadziło.
 Daje to nie tylko możliwość lepszego zrozumienia przedstawionych pomysłów,
 ale również sposobność ich samodzielnego rozwijania.
+
+## [I. Jak powstaje model Wszechświata](rozdzial1)
