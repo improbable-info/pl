@@ -1,1 +1,3 @@
-Dodatkowe informacje
+## Dodatkowe informacje
+
+### Automaty komórkowe
