@@ -38,3 +38,22 @@ wówczas ze struktury, która się co kilka kroków powtarzała, rozpocznie się
 Stan początkowy (w konfiguracji z 2b przesunęliśmy jedno pole o kilka miejsc:
 
 ![rysunek5a](../assets/img/obrazekA5a.jpg)
+
+Stan po 71 krokach:
+
+![rysunek5b](../assets/img/obrazekA5b.jpg)
+
+Stan po 80 krokach:
+
+![rysunek5c](../assets/img/obrazekA5c.jpg)
+
+Stan po 409 krokach:
+
+![rysunek5d](../assets/img/obrazekA5d.jpg)
+
+Stan po 730 krokach:
+
+![rysunek5f](../assets/img/obrazekA5f.jpg)
+
+Widać tu, że zmiana tylko jednego pola może prowadzić do powstania dużej liczby nowych struktur,
+które mogą być znacznie skomplikowane i całkowicie różniące się od początkowej struktury.
