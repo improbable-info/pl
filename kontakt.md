@@ -13,6 +13,6 @@ z którego wyśliśmy.
 jedno takie miejsce, to rozwiązanie możesz znaleźć w książce
 "Prawdopodobnie wszystko jest inaczej")
 
-Dodatkowo proszę podać kod, który otrzymasz jako sumę odpowiedzi
+Dodatkowo proszę podać na początku maila kod, który otrzymasz jako sumę odpowiedzi
 zadań matematyczno-logicznych z zakładki "Dodatkowe informacje"
 które potrafisz prawidłowo rozwiązać.
