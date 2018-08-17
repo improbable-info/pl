@@ -1,5 +1,5 @@
 ## Linki do zalecanych stron
 
-http://youtu.be/7RtpQhs9tF0
+[filmik Geometria czasoprzestrzeni I   http://youtu.be/7RtpQhs9tF0](http://youtu.be/7RtpQhs9tF0)
 
-https://www.mybook.pl/6/0/bid/303
+[Wydawnictwo MyBook   https://www.mybook.pl/6/0/bid/303](https://www.mybook.pl/6/0/bid/303)
