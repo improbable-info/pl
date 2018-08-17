@@ -125,3 +125,5 @@ na przykład ogromne czarne dziury we wczesnym Wszechświecie.
 
 Chyba już czas zatrzymać się i zastanowić, które nasze założenia mogą być błędne
 i zbudować model Wszechświata od nowa.
+
+## [II. Widzialna część Wszechświata](rozdzial2)
