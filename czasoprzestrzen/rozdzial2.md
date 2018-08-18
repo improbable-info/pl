@@ -133,3 +133,5 @@ powstawania pojęcia czasoprzestrzeni i ustalania w niej odległości.
 Następnie musimy ustalić, przy jakich założeniach był utworzony interwał czasoprzestrzenny
 i które z tych założeń mogą być niewłaściwe. Następnie musimy znaleźć jakieś inne możliwości.
 Do tego będziemy potrzebować trochę matematyki. Postaram się zrobić to w jak najłagodniejszej formie.
+
+## [III. Matematyka i mózg](rozdzial3)
