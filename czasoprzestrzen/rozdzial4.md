@@ -85,3 +85,4 @@ Ze względu na to, że w naszych rozważaniach będą potrzebne nie tylko liczby
 ale także liczby zespolone, których na co dzień się nie używa,
 przydatne może być podanie kilku informacji na ten temat.
 
+## [V. Matematyka i mózg](rozdzial5)
