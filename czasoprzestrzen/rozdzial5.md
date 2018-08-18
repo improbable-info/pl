@@ -54,3 +54,4 @@ zawierają w sobie ukryte założenie, że przestrzeń jest euklidesowa.
 Wydaje się, że do obliczeń dotyczących kosmologii przydałby się aparat matematyczny
 odpowiadający geometriom nieeuklidesowym...
 
+## [VI. Matematyka i mózg](rozdzial6)
