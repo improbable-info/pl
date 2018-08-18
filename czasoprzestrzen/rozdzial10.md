@@ -7,6 +7,8 @@ Jeżeli dodamy czas, jako prostą **t** ortogonalną do przestrzeni **p**, to ot
 
 ![rysunek8](../assets/img/rysunek8.png)
 
+Rysunek 8
+
 Zakładamy, że nasz obserwator nie rusza się w przestrzeni (czy dokładniej:
 nie rusza się względem systemu współrzędnych, który jest z nim powiązany),
 to znaczy, że w czasoprzestrzeni będzie poruszać się tylko w kierunku osi **t**
@@ -15,12 +17,16 @@ i w kolejnych chwilach **t1**, **t2**, **t3** będzie znajdował się w punktach
 
 ![rysunek9](../assets/img/rysunek9.png)
 
+Rysunek 9
+
 Dodajmy do naszego modelu jeszcze jednego obserwatora P,
 który będzie się od obserwatora O oddalać ruchem prostoliniowym jednostajnym.
 Jego tor w czasoprzestrzeni będzie tworzył prostą nachyloną względem osi czasu obserwatora O
 pod pewnym kątem, zależnym od szybkości, jaką się obserwator P oddała od obserwatora O (rysunek 10).
 
 ![rysunek10](../assets/img/rysunek10.png)
+
+Rysunek 10
 
 Zasada względności mówi nam jednak, że ruch jest względny.
 Jeżeli mamy dwóch obserwatorów, którzy od siebie się oddalają, nie da się stwierdzić,
@@ -30,6 +36,8 @@ Dla niego czas płynie w kierunku jego ruchu w czasoprzestrzeni,
 czyli wzdłuż linii **u** a przestrzeń przebiega dla niego w kierunku linii **r** (rysunek 11).
 
 ![rysunek11](../assets/img/rysunek11.png)
+
+Rysunek 11
 
 Jeżeli trzymamy się zasady względności, to sytuacja obserwatora O i obserwatora P musi być analogiczna.
 
