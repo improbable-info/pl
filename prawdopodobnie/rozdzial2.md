@@ -151,3 +151,5 @@ Można też pójść inną drogą. Nie próbować przekazać komputerom naszych 
 ale wytwarzać nowe pojęcia stworzone specjalnie w celu porozumienia się z komputerem.
 W tej chwili odłóżmy jeszcze pytanie, jakie pojęcia mogłyby to być i zastanówmy się na chwilę
 nad pojęciem **informacja**.
+
+### [Zamówić książkę](https://www.mybook.pl/6/0/bid/303)
