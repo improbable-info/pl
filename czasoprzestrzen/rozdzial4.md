@@ -65,10 +65,23 @@ Zakrzywienie powierzchni lub przestrzeni jest określone przez wzajemne odległo
 W przestrzeni euklidesowej obowiązuje zasada, że można odległość każdych dwóch punktów x i y
 o współrzędnych x=(x1,x2,...,xn), y=(y1,y2,...,yn) zdefiniować wzorem
 	
+$$ d = \sqrt {(y_1-x_1)^2+ ... +(y_n-x_n)^2}  $$,
 
+Jeżeli jest inaczej, to przestrzeń nie jest euklidesowa.
+Różnych możliwości jest sporo i z niektórymi zapoznamy się później.
 
-Jeżeli jest inaczej, to przestrzeń nie jest euklidesowa. Różnych możliwości jest sporo i z niektórymi zapoznamy się później.
-Wzór wygląda dosyć skomplikowanie, w zasadzie oznacza tylko tyle, że w przestrzeni euklidesowej obowiązuje uogólnione twierdzenie Pitagorasa. Jeżeli ograniczymy się do trójwymiarowej przestrzeni z osiami x, y, z i jeden z punktów powiążemy z początkiem współrzędnych, to wzór na odległość otrzyma kształt
-   ,
-gdzie x, y i z oznaczają odpowiednie współrzędne oddalonego punktu. Taki zapis jest prostszy i bardziej przejrzysty. W razie potrzeby można w każdej chwili powrócić do ogólniejszej formy zapisu.
-	Ze względu na to, że w naszych rozważaniach będą potrzebne nie tylko liczby rzeczywiste, ale także liczby zespolone, których na co dzień się nie używa, przydatne może być podanie kilku informacji na ten temat.
+Wzór wygląda dosyć skomplikowanie, w zasadzie oznacza tylko tyle,
+że w przestrzeni euklidesowej obowiązuje uogólnione twierdzenie Pitagorasa.
+Jeżeli ograniczymy się do trójwymiarowej przestrzeni z osiami x, y, z
+i jeden z punktów powiążemy z początkiem współrzędnych, to wzór na odległość otrzyma kształt
+
+$$ d = \sqrt {x^2+y^2+z^2}  $$,
+
+gdzie **x**, **y** i **z** oznaczają odpowiednie współrzędne oddalonego punktu.
+Taki zapis jest prostszy i bardziej przejrzysty.
+W razie potrzeby można w każdej chwili powrócić do ogólniejszej formy zapisu.
+
+Ze względu na to, że w naszych rozważaniach będą potrzebne nie tylko liczby rzeczywiste,
+ale także liczby zespolone, których na co dzień się nie używa,
+przydatne może być podanie kilku informacji na ten temat.
+
