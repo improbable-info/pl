@@ -1,3 +1,7 @@
+---
+mathjax: true
+---
+
 ## IV. Geometrie nieeuklidesowe i ustalanie odległości
 
 Tak bardzo jesteśmy przyzwyczajeni do geometrii euklidesowej,
