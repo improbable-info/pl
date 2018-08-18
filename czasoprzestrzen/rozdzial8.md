@@ -23,8 +23,8 @@ przestrzeń może być modelowana za pomocą skończonej sieci komórek. Zawsze 
 że jakikolwiek model jest jedynie  przybliżeniem rzeczywistości i nie zawiera wszystkich jej właściwości,
 a i te cechy, które uwzględnia, nie są opisane dokładnie. Czasami możemy też źle interpretować otrzymane wyniki.
 
-Można na przykład utworzyć model przestrzeni, w którym odległości dwóch punktów A i B o współrzędnych
-A=(x1,y1,z1), B=(x2,y2,z2) zdefiniujemy wzorem δ = | x2 - x1 |. 
+Można na przykład utworzyć model przestrzeni, w którym odległości dwóch punktów **A** i **B** o współrzędnych
+**A=(x<sub>1</sub>,y<sub>1</sub>,z<sub>1</sub>)**, **B=(x<sub>2</sub>,y<sub>2</sub>,z<sub>2</sub>)** zdefiniujemy wzorem **d = | x<sub>2</sub> - x<sub>1</sub> |**. 
 Widać, że odległość może być zerowa nie tylko dla identycznych punktów, wystarczy że będą identyczne pierwsze współrzędne.
 Nie chodzi więc o metrykę w ścisłym słowa znaczeniu, ale możemy w ten sposób zdefiniowaną odległość  nazwać pseudometryką
 i badać właściwości takiej przestrzeni. Możemy obliczać odległości różnych punktów i podziwiać dziwne wyniki,
