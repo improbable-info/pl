@@ -26,4 +26,12 @@ https://github.com/nomatteus/conway-game-of-life-js
 
 Zmienna site.github.repository_name = {{ site.github.repository_name }}
 
+### indeks górny i dolny
+
+Przydładoo <sup>górnego</sup> indeksu oraz <sub>dolnego</sub> indeksu poprzed tagi html.
+Dodatkowo do do pojedynczych cyffr można uzyć odpowiedniego znaku unikodowego: E=mc² 
+
+Lista unikodowych znaków w indeksach górnych i dolnych jest tu:
+https://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts
+
 
