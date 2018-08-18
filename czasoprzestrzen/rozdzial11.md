@@ -48,4 +48,4 @@ będzie promieniem rozszerzającej się kuli, a czas lokalny będzie tworzył sp
 biegnącą po powierzchni rozszerzającej się kuli.
 Obraz jeszcze bardziej się skomplikuje po dodaniu ruchu przyspieszonego i grawitacji.
 
-## [XII.Wiry i deformacje czasoprzestrzeni](rozdzial12) 
+## [XII. Wiry i deformacje czasoprzestrzeni](rozdzial12) 
