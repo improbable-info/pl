@@ -1,4 +1,4 @@
-## Zasada względności w czasoprzestrzeni
+## X. Zasada względności w czasoprzestrzeni
 
 Do analizy warto zawsze wybrać na początku najprostszy model.
 Dlatego nasze rozważania rozpoczniemy od jednowymiarowej przestrzeni, którą możemy sobie wyobrażać,
