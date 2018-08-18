@@ -12,22 +12,22 @@
 
 [IV. Geometrie nieeuklidesowe i ustalanie odległości](rozdzial4)
 
-V. Kilka zdań o liczbach zespolonych
+[V. Kilka zdań o liczbach zespolonych](rozdzial5)
 
-VI. Co rozumiemy pod pojęciem czasu?
+[VI. Co rozumiemy pod pojęciem czasu?](rozdzial6)
 
-VII. Wszechświat jako automat komórkowy
+[VII. Wszechświat jako automat komórkowy](rozdzial7)
 
-VIII. Parę słów na temat przestrzeni
+[VIII. Parę słów na temat przestrzeni](rozdzial8)
 
-IX. Pierwsze uwagi o czasoprzestrzeni
+[IX. Pierwsze uwagi o czasoprzestrzeni](rozdzial9)
 
-X. Zasada względności w czasoprzestrzeni
+[X. Zasada względności w czasoprzestrzeni](rozdzial10)
 
-XI. Zespolony czas i interwał czasoprzestrzenny
+[XI. Zespolony czas i interwał czasoprzestrzenny](rozdzial11)
 
-XII. Wiry i deformacje czasoprzestrzeni
+[XII. Wiry i deformacje czasoprzestrzeni](rozdzial12)
 
-XIII.Zakończenie
+[XIII.Zakończenie](rozdzial13)
 
-Literatura
+[Literatura](literatura)
