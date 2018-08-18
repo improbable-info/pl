@@ -14,21 +14,19 @@ jak za pomocą czterowymiarowej czasoprzestrzeni w prostszy sposób przedstawić
 Jednym z problemów, który było trzeba rozwiązać, było ustalenie, w jaki sposób należy mierzyć odległości
 w czasoprzestrzeni. W przestrzeni odległość mierzymy w metrach a czas mierzymy w sekundach.
 Aby je połączyć, konieczne jest przekształcenie odległości w czas albo czasu w odległość.
-Dobrym rozwiązaniem okazało się pomnożenie czasu t przez szybkość światła c,
+Dobrym rozwiązaniem okazało się pomnożenie czasu **t** przez szybkość światła **c**,
 po czym zamiast czasu otrzymamy odległość. Jeżeli do trójwymiarowej przestrzeni dodamy następny wymiar czasowy
 pomnożony przez prędkość światła, otrzymamy czterowymiarową przestrzeń,
 w której wszystkie wymiary są w tych samych jednostkach.
 Pojawił się jednak następny problem. Czas różni się trochę od przestrzeni.
 Jeżeli w przestrzeni można dowolnie poruszać się tam i z powrotem,
 to powrót w czasie prowadzi do różnych sprzeczności. Minkowski rozwiązał tę kwestię w ten sposób,
-że czasowy wymiar pomnożył, oprócz szybkości światła jeszcze przez jednostkę urojoną i.
+że czasowy wymiar pomnożył, oprócz szybkości światła jeszcze przez jednostkę urojoną **i**.
 Wzór na odległość w czasoprzestrzeni otrzymał wówczas następujący kształt
  
 $$ d = \sqrt {x^2+y^2+z^2+i^2*c^2*t^2}  $$,
 
-co ze względu na to, że  
-
-$$ i^2 = -1 $$  
+co ze względu na to, że  $$ i^2 = -1 $$  
 
 daje
 
