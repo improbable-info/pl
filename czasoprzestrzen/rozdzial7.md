@@ -32,3 +32,4 @@ z jaką mogą przemieszczać się zmiany w przestrzeni itd.
 Widzimy, że taki model ma nie tylko naturalnie płynący czas, ale jednocześnie ma i pewne właściwości kwantowe.
 Może to być jedna z możliwych dróg do modelowania Wszechświata...
 
+## [VIII. Parę słów na temat przestrzeni ](rozdzial8)
