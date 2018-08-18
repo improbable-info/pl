@@ -8,7 +8,7 @@
 
 **Andrew Liddle: Wprowadzenie do kosmologii współczesnej** - książka, w której są wyprowadzone równania Friedmana w taki sposób, że zrozumiałem, że jest w nich ukryte założenie o nieskończoności przestrzeni.
 
-**Michał Heller: Teoretyczne podstawy kosmologii** - matematyczny opis czasoprzestrzeni, jako rozmaitości różniczkowej. Tak rozumiana czasoprzestrzeń nie może być moim zdaniem połączona z teorią kwantową. W moim przekonaniu czasoprzestrzeń przypomina raczej burzliwy ocean pełen prądów i wirów i nie można w niej ustalać nawet lokalnych układów współrzędnych.
+**Michał Heller: Teoretyczne podstawy kosmologii** - matematyczny opis czasoprzestrzeni, jako rozmaitości różniczkowej. Tak rozumiana czasoprzestrzeń nie może być moim zdaniem połączona z teorią kwantową. W moim przekonaniu czasoprzestrzeń przypomina raczej burzliwy ocean pełen prądów i wirów.
 
 **Katalog festiwalowy Copernicus festival 2016/ piękno** - do artykułu Lukasza Łamży dotyczącego czasu i prac Juliana Barboura wracałem wiele razy.
 
