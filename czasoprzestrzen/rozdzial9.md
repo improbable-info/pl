@@ -69,3 +69,5 @@ minus prędkość światła pomnożoną przez czas, czyli zero.
 W jaki sposób w takim razie należy ustalać odległości w czasoprzestrzeni?
 Jeżeli chcemy znaleźć odpowiedź na to pytanie, trzeba najpierw wrócić do początkowych uwag o czasie
 i o czasoprzestrzeni a następnie próbować szukać rozwiązania jeszcze raz.
+
+## [X. Zasada względności w czsoprzestrzeni ](rozdzial10) 
