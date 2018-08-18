@@ -1,4 +1,6 @@
-
+---
+mathjax: true
+---
 ## Zespolony czas i interwał czasoprzestrzenny
 
 Zostawmy na chwilę problem kształtu całego Wszechświata i skupmy się na małym kawałku czasoprzestrzeni,
