@@ -20,7 +20,7 @@ Przy podejmowaniu jakiekolwiek decyzji postępujemy według jakiegoś uproszczon
 i zależy, jakie szczegóły są dla nas w danej chwili ważne.
 Na podstawie tego, co jest napisane poniżej, decydujemy się na **TAK** czy **NIE**?
 
-![TAKNIE](../assets/img/taknie.png)
+![TakNie](../assets/img/TakNie.png)
 
 Bez względu na inne czynniki, ważne jest to, z jakiej odległości patrzymy.
 
