@@ -10,7 +10,7 @@
 
 [III. Matematyka i mózg](rozdzial3)
 
-IV. Geometrie nieeuklidesowe i ustalanie odległości
+[IV. Geometrie nieeuklidesowe i ustalanie odległości](rozdzial4)
 
 V. Kilka zdań o liczbach zespolonych
 
