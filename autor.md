@@ -1,3 +1,5 @@
+## O autorze
+
 ![autor](assets/img/autor.jpg)
 Jiří Šrajer urodził się w Opawie w Czechach w 1950 roku.
 Studiował matematykę na Uniwersytecie im Karola w Pradze.
