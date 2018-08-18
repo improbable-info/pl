@@ -113,3 +113,5 @@ Na tym etapie nie mamy żadnego dowodu na to, że przestrzeń jest skończona.
 Mamy natomiast powody, aby zbadać sprawę dokładniej. Jeżeli założymy możliwość, że przestrzeń jest skończona,
 to z tego wynika, że nie może być przestrzenią euklidesową.
 W tym przypadku trzeba się przyjrzeć geometriom nieeuklidesowym.
+
+## [IV. Geometrie nieeuklidesowe i ustalanie odległości](rozdzial4)
