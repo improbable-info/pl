@@ -39,3 +39,5 @@ Jeżeli kierunek czasu i podział na przeszłość, teraźniejszość i przyszł
 to potrzebujemy modelu, który to w jakiś sposób uwzględnia.
 Jedną z możliwości jest wykorzystanie idei brytyjskiego fizyka Stephena Wolframa,
 który proponuje modelowanie Wszechświata, jako automatu komórkowego.
+
+## [VII. Wszechświat jako automat komórkowy](rozdzial7)
