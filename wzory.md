@@ -34,4 +34,6 @@ Dodatkowo do do pojedynczych cyffr można uzyć odpowiedniego znaku unikodowego:
 Lista unikodowych znaków w indeksach górnych i dolnych jest tu:
 https://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts
 
+Dodatkowo można tez $E=mc^2$ zrobić w tekście jako wstawkę LaTeX'a.
+
 
