@@ -45,4 +45,4 @@ Książkę można zamówić pod adresem [https://www.mybook.pl/6/0/bid/303](http
 
 [DODATEK D Kilka zadań dla dociekliwych](https://www.mybook.pl/6/0/bid/303)
 
-[Literatura](https://www.mybook.pl/6/0/bid/303)
+[Literatura](literatura)
