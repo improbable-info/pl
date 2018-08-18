@@ -52,9 +52,9 @@ Jeżeli ja siedzę w miejscu i wydaje mi się, że nie poruszam się w przestrze
 Czyli to, co jeden obserwator odbiera jako przemieszczanie się w czasie,
 inny może odbierać jako przemieszczanie się w przestrzeni.
 
-Jeżeli przyjmiemy, że czas i przestrzeń są w jakiś sposób zamienne, i uważamy,
+*Jeżeli przyjmiemy, że czas i przestrzeń są w jakiś sposób zamienne, i uważamy,
 że nasz Wszechświat istnieje tylko przez skończony czas, to wszystko wskazuje na to,
-że przestrzeń także powinna być skończona.
+że przestrzeń także powinna być skończona.*
 
 W każdym razie widzimy, że czas i przestrzeń są w jakiś sposób powiązane i trzeba je badać jednocześnie.
 Bardzo przydatne okazało się wprowadzenie pojęcia czasoprzestrzeni.
