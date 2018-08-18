@@ -4,7 +4,7 @@
 
 **Landau, Lifszyc: Teoria pola** - pierwsza książka, którą poleciła mi pani profesor Irina Dymnikowa, kiedy zacząłem się zajmować kosmologią na poważnie.
 
-**Brian Cox, Jeff Forshaw: Dlaczego E=mc2** - książka wyjaśniająca w popularny sposób teorię Einsteina. Dzięki przystępnej formie i tłumaczeniu zarówno wyników, jak i sposobu w jaki do nich dochodzono, pozwala na lepsze zrozumienie zagadnienia. 
+**Brian Cox, Jeff Forshaw: Dlaczego E=mc<sup>2</sup>** - książka wyjaśniająca w popularny sposób teorię Einsteina. Dzięki przystępnej formie i tłumaczeniu zarówno wyników, jak i sposobu w jaki do nich dochodzono, pozwala na lepsze zrozumienie zagadnienia. 
 
 **Andrew Liddle: Wprowadzenie do kosmologii współczesnej** - książka, w której są wyprowadzone równania Friedmana w taki sposób, że zrozumiałem, że jest w nich ukryte założenie o nieskończoności przestrzeni.
 
