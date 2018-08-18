@@ -62,8 +62,8 @@ Ze względu na nasze "przyzwyczajenie się" do geometrii Euklidesowej wyobrażam
 zakrzywione powierzchnie zanurzone w niezakrzywionej przestrzeni większego wymiaru.
 W ten sposób łatwiej jest nie tylko je sobie wyobrazić, ale i opisać. Nie musi tak jednak być.
 Zakrzywienie powierzchni lub przestrzeni jest określone przez wzajemne odległości ich punktów.
-W przestrzeni euklidesowej obowiązuje zasada, że można odległość każdych dwóch punktów x i y
-o współrzędnych x=(x1,x2,...,xn), y=(y1,y2,...,yn) zdefiniować wzorem
+W przestrzeni euklidesowej obowiązuje zasada, że można odległość każdych dwóch punktów **x** i **y**
+o współrzędnych **x=(x<sub>1</sub>,x<sub>2</sub>,...,x<sub>n</sub>)**, **y=(y<sub>1</sub>,y<sub>2</sub>,...,y<sub>n</sub>)** zdefiniować wzorem
 	
 $$ d = \sqrt {(y_1-x_1)^2+ ... +(y_n-x_n)^2}  $$,
 
@@ -72,7 +72,7 @@ Różnych możliwości jest sporo i z niektórymi zapoznamy się później.
 
 Wzór wygląda dosyć skomplikowanie, w zasadzie oznacza tylko tyle,
 że w przestrzeni euklidesowej obowiązuje uogólnione twierdzenie Pitagorasa.
-Jeżeli ograniczymy się do trójwymiarowej przestrzeni z osiami x, y, z
+Jeżeli ograniczymy się do trójwymiarowej przestrzeni z osiami **x**, **y**, **z**
 i jeden z punktów powiążemy z początkiem współrzędnych, to wzór na odległość otrzyma kształt
 
 $$ d = \sqrt {x^2+y^2+z^2}  $$,
