@@ -1,4 +1,4 @@
-## XII. deformacje czasoprzestrzeni
+## XII. Wiry i deformacje czasoprzestrzeni
 
 Spróbujmy sprawdzić, jak w naszym modelu będzie wyglądał ruch przyspieszony i grawitacja.
 
@@ -55,4 +55,4 @@ w centrum którego czas płynie wolniej a prędkość orbitalna gwiazd w pobliż
 
 Według naszego modelu cały wszechświat jest tylko wirującą i falującą czasoprzestrzenią...
 
-## [XIII.Zakończenie](rozdzial13) 
+## [XIII. Zakończenie](rozdzial13) 
