@@ -59,3 +59,4 @@ inny może odbierać jako przemieszczanie się w przestrzeni.
 W każdym razie widzimy, że czas i przestrzeń są w jakiś sposób powiązane i trzeba je badać jednocześnie.
 Bardzo przydatne okazało się wprowadzenie pojęcia czasoprzestrzeni.
 
+## [IX. Pierwsze uwagi o czasoprzestrzeni ](rozdzial9)  
