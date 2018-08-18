@@ -65,3 +65,4 @@ W takim modelu nie jest naruszona zasada przyczynowości,
 bo chociaż czas lokalny dwóch obserwatorów płynie w odwrotnym kierunku, to czas kosmiczny powoduje,
 że kolejność zdarzeń jest zachowana.
 
+## [XI. Zespolony czas i interwał czasoprzestrzenny ](rozdzial11) 
