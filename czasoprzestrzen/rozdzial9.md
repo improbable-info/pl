@@ -1,3 +1,6 @@
+---
+mathjax: true
+---
 ## IX. Pierwsze uwagi o czasoprzestrzeni
 
 Pojęcie czasoprzestrzeni istniało już w mechanice klasycznej,
