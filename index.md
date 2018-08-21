@@ -11,7 +11,7 @@ Jednym z poruszonych tematów była kwestia geometrii Wszechświata.
 Na początku chciałem tylko pokazać, że może być inaczej niż uważamy,
 ale czasem doszedłem do wniosku, że nasze wyobrażenie jest blędne
 i jest potrzebne utworzyć nowy model czasoprzestrzeni.
-Po kilkuletniej intenzywnej pracy spisałem podstawowe idee nowego modelu
+Po kilkuletniej intensywnej pracy spisałem podstawowe idee nowego modelu
 w książce [Krótka rozprawa o czasoprzestrzeni](czasoprzestrzen).
 Aktualnie pracuję nad komputerowym modelem Wszechświata według moich założeń.
 
