@@ -15,5 +15,4 @@ Po kilkuletniej intensywnej pracy spisałem podstawowe idee nowego modelu
 w książce [Krótka rozprawa o czasoprzestrzeni](czasoprzestrzen).
 Aktualnie pracuję nad komputerowym modelem Wszechświata według moich założeń.
 
-Dla zainteresowanych podaję [Dodatkowe informacje](dodatki)
-i [Kontakt](kontakt).
+Dla zainteresowanych podaję [Dodatkowe informacje i kontakt](dodatki).
