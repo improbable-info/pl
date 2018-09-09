@@ -12,14 +12,14 @@ Rysunek 8
 Zakładamy, że nasz obserwator nie rusza się w przestrzeni (czy dokładniej:
 nie rusza się względem systemu współrzędnych, który jest z nim powiązany),
 to znaczy, że w czasoprzestrzeni będzie poruszać się tylko w kierunku osi **t**
-i w kolejnych chwilach **t1**, **t2**, **t3** będzie znajdował się w punktach
-**t1**, **t2**, **t3** na osi **t** (rysunek 9).
+i w kolejnych chwilach **t<sub>1</sub>**, **t<sub>2</sub>**, **t<sub>3</sub>** będzie znajdował się w punktach
+**t<sub>1</sub>**, **t<sub>2</sub>**, **t<sub>3</sub>** na osi **t** (rysunek 9).
 
 ![rysunek9](../assets/img/rysunek9.png)
 
 Rysunek 9
 
-Dodajmy do naszego modelu jeszcze jednego obserwatora P,
+Dodajmy do naszego modelu jeszcze jedneg<sub>1</sub>o obserwatora P,
 który będzie się od obserwatora O oddalać ruchem prostoliniowym jednostajnym.
 Jego tor w czasoprzestrzeni będzie tworzył prostą nachyloną względem osi czasu obserwatora O
 pod pewnym kątem, zależnym od szybkości, jaką się obserwator P oddała od obserwatora O (rysunek 10).
