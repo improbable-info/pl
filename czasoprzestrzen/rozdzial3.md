@@ -23,9 +23,8 @@ Płaszczyznę możemy połączyć z liczbami na przykład w taki sposób,
 że każdy punkt płaszczyzny utożsamiamy z parą liczb rzeczywistych.
 Otrzymujemy w ten sposób współrzędne każdego punktu płaszczyzny.
 
-
 (Łatwo można w ten sposób rozszerzyć geometrię na dowolną ilość wymiarów n, tylko każdy punkt
-zamiast parą liczb, będzie zdefiniowany ciągiem n liczb rzeczywistych x=(x1,x2,...,xn).
+zamiast parą liczb, będzie zdefiniowany ciągiem n liczb rzeczywistych x=(x<sub>1</sub>,x<sub>2</sub>,...,x<sub>n</sub>).
 Jeśli dla każdej pary elementów x i y wprowadzimy pojęcie wzajemnej ich odległości
 zdefiniowanej wzorem
 
