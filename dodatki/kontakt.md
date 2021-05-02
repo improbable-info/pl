@@ -2,7 +2,7 @@
 
 ### Jiří Šrajer
 
-[pl@improbable.info](mailto:pl@improbable.info)
+[jiri.szrajer@gmail.com](mailto:jiri.szrajer@gmail.com)
 
 Uwaga! Tylko dla osób, które potrafią znaleźć na Ziemi
 co najmniej dwa różne punkty, dla których spełniony jest warunek, że jeżeli
