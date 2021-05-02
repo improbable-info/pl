@@ -28,6 +28,6 @@
 
 [XII. Wiry i deformacje czasoprzestrzeni](rozdzial12)
 
-[XIII.Zakończenie](rozdzial13)
+[XIII. Zakończenie](rozdzial13)
 
 [Literatura](literatura)
