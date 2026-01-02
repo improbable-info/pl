@@ -4,8 +4,8 @@ Kto nie zna liczb zespolonych, może być zdziwiony, że coś takiego w ogóle i
 Jak może być kwadrat jakieś liczby ujemny, skoro przecież kwadrat dowolnej liczby rzeczywistej
 musi być nieujemny. Otóż, o to właśnie chodzi, że w ramach liczb rzeczywistych
 nie ma pierwiastków liczb ujemnych a czasami są potrzebne.
-
-Dlaczego właściwie ludzie potrzebują liczb? Kiedyś dawno obchodzili się bez nich.
+...
+<!--Dlaczego właściwie ludzie potrzebują liczb? Kiedyś dawno obchodzili się bez nich.
 Można zakładać, że najpierw potrzebne były małe liczby naturalne, aby policzyć członków grupy
 czy sztuki zwierząt. Z czasem nauczono się dodawać.
 Przez dodanie dwóch liczb naturalnych otrzymamy ponownie liczbę naturalną, tylko trochę większą.
@@ -54,4 +54,4 @@ zawierają w sobie ukryte założenie, że przestrzeń jest euklidesowa.
 Wydaje się, że do obliczeń dotyczących kosmologii przydałby się aparat matematyczny
 odpowiadający geometriom nieeuklidesowym...
 
-## [VI. Co rozumiemy pod pojęciem czasu?](rozdzial6)
+## [VI. Co rozumiemy pod pojęciem czasu?](rozdzial6) -->
