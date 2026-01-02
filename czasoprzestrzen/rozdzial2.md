@@ -5,8 +5,8 @@ Obraz wszechświata budujemy tylko na podstawie fal, które docierają do nas i 
 Na podstawie doświadczenia z małych odległości uważamy, że widziane obiekty znajdują się w kierunku,
 z którego do nas dochodzi od nich światło i w odległości równej torowi światła od obiektu do nas.
 Jednak nie zawsze to musi być prawda ...*
-
-Moje rozważania na temat geometrii wszechświata rozpoczęły się od następujących uwag:
+...
+<!--Moje rozważania na temat geometrii wszechświata rozpoczęły się od następujących uwag:
 
 Ze względu na skończoną szybkość światła nie widzimy obiektów na niebie takimi, jakimi są w tej chwili,
 tylko jak wyglądały jakiś czas temu. Słońce widzimy tak, jak wyglądało około 8 minut temu,
@@ -134,4 +134,4 @@ Następnie musimy ustalić, przy jakich założeniach był utworzony interwał c
 i które z tych założeń mogą być niewłaściwe. Następnie musimy znaleźć jakieś inne możliwości.
 Do tego będziemy potrzebować trochę matematyki. Postaram się zrobić to w jak najłagodniejszej formie.
 
-## [III. Matematyka i mózg](rozdzial3)
+## [III. Matematyka i mózg](rozdzial3) -->
