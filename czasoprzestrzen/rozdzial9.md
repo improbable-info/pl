@@ -6,8 +6,8 @@ mathjax: true
 Pojęcie czasoprzestrzeni istniało już w mechanice klasycznej,
 gdzie oznaczało iloczyn kartezjański przestrzeni euklidesowej i czasu.
 Czas tu był dodatkowym wymiarem, ale mierzonym w innych jednostkach i niezależnym od przestrzeni.
-
-To, że czas i przestrzeń mogą tworzyć jeden obiekt, w którym czas i przestrzeń w jakiś sposób mogą się mieszać
+---
+<!--To, że czas i przestrzeń mogą tworzyć jeden obiekt, w którym czas i przestrzeń w jakiś sposób mogą się mieszać
 i zamieniać, uświadomił sobie już matematyk Hermann Minkowski. Wymyślił też,
 jak za pomocą czterowymiarowej czasoprzestrzeni w prostszy sposób przedstawić szczególną teorię względności.
 
@@ -68,4 +68,4 @@ W jaki sposób w takim razie należy ustalać odległości w czasoprzestrzeni?
 Jeżeli chcemy znaleźć odpowiedź na to pytanie, trzeba najpierw wrócić do początkowych uwag o czasie
 i o czasoprzestrzeni a następnie próbować szukać rozwiązania jeszcze raz.
 
-## [X. Zasada względności w czasoprzestrzeni ](rozdzial10) 
+## [X. Zasada względności w czasoprzestrzeni ](rozdzial10) -->
