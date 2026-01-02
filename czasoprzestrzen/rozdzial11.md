@@ -8,8 +8,8 @@ w którym możemy zakrzywienie zignorować. W tym przypadku możemy czas repreze
 gdzie część rzeczywista reprezentuje czas lokalny a część urojona czas kosmiczny.
 Część rzeczywista czasu może być różnie postrzegana w zależności od ruchu obserwatora i zamiany z przestrzenią,
 natomiast część urojona zapewnia bieg czasu w jednym kierunku dla wszystkich obserwatorów.
-
-W jaki sposób można zdefiniować odległość w takiej czasoprzestrzeni?
+...
+<!--W jaki sposób można zdefiniować odległość w takiej czasoprzestrzeni?
 W najprostszym przypadku, przy założeniu, że czas kosmiczny i czas lokalny będą miały taką samą wartość,
 otrzymamy wzór na odległość
 	
@@ -48,4 +48,4 @@ będzie promieniem rozszerzającej się kuli, a czas lokalny będzie tworzył sp
 biegnącą po powierzchni rozszerzającej się kuli.
 Obraz jeszcze bardziej się skomplikuje po dodaniu ruchu przyspieszonego i grawitacji.
 
-## [XII. Wiry i deformacje czasoprzestrzeni](rozdzial12) 
+## [XII. Wiry i deformacje czasoprzestrzeni](rozdzial12) -->
