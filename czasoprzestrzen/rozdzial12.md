@@ -1,8 +1,8 @@
 ## XII. Wiry i deformacje czasoprzestrzeni
 
 Spróbujmy sprawdzić, jak w naszym modelu będzie wyglądał ruch przyspieszony i grawitacja.
-
-Najpierw powróćmy na chwilę do modelu dwuwymiarowej płaskiej czasoprzestrzeni.
+...
+<!--Najpierw powróćmy na chwilę do modelu dwuwymiarowej płaskiej czasoprzestrzeni.
 
 Jeżeli od nas ktoś oddalał się ruchem jednostajnym prostoliniowym, to tor tego ruchu w czasoprzestrzeni był linią prostą
 nachyloną pod kątem zależnym od szybkości oddalania się.
@@ -55,4 +55,4 @@ w centrum którego czas płynie wolniej a prędkość orbitalna gwiazd w pobliż
 
 Według naszego modelu cały wszechświat jest tylko wirującą i falującą czasoprzestrzenią...
 
-## [XIII. Zakończenie](rozdzial13) 
+## [XIII. Zakończenie](rozdzial13) -->
