@@ -8,8 +8,8 @@ Tak bardzo jesteśmy przyzwyczajeni do geometrii euklidesowej,
 że nawet nie zdajemy sobie sprawy z tego, że często już na początku nieświadomie zakładamy,
 że przestrzeń jest euklidesowa. Żeby w ogóle dopuścić myśl, że może być inaczej,
 musimy najpierw wiedzieć coś  na temat geometrii nieeuklidesowych.
-
-Euklides tworzył swoją geometrie na płaskiej kartce i zakładał,
+...
+<!--Euklides tworzył swoją geometrie na płaskiej kartce i zakładał,
 że kartkę można rozciągnąć we wszystkich kierunkach w nieskończoność.
 Może wystarczyłoby, gdyby Ziemia była trochę mniejsza i ludzie od razu doszliby do wniosku,
 że nie ma nieskończonej płaszczyzny, że każda płaszczyzna zagina się i w końcu utworzy kulę.
@@ -85,4 +85,4 @@ Ze względu na to, że w naszych rozważaniach będą potrzebne nie tylko liczby
 ale także liczby zespolone, których na co dzień się nie używa,
 przydatne może być podanie kilku informacji na ten temat.
 
-## [V. Kilka zdań o liczbach zespolonych](rozdzial5)
+## [V. Kilka zdań o liczbach zespolonych](rozdzial5) -->
