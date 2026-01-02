@@ -3,9 +3,9 @@
 Większość ludzi pod pojęciem przestrzeń prawdopodobnie wyobraża sobie trójwymiarową przestrzeń euklidesową.
 Przez długi czas nikomu nawet na myśl nie przyszło, że mogłoby być inaczej. Dlaczego?
 Bo taki model stanowi dobre przybliżenie przestrzeni fizycznej dla niedużych odległości makroskopowych,
-z jakimi normalnie spotykamy w życiu się.
-
-O tym, że fizyczna przestrzeń może nie być euklidesowa, świadczy jednak efekt zakrzywienia przestrzeni przez masę,
+z jakimi normalnie spotykamy się w życiu.
+...
+<!--O tym, że fizyczna przestrzeń może nie być euklidesowa, świadczy jednak efekt zakrzywienia przestrzeni przez masę,
 a także badanie odległości bardzo małych, gdzie pojawiają się zjawiska kwantowe.
 
 Jeżeli jednak nie euklidesowa przestrzeń, to jaka? W matematyce można pojęcie przestrzeni zdefiniować dosyć ogólnie,
@@ -59,4 +59,4 @@ inny może odbierać jako przemieszczanie się w przestrzeni.
 W każdym razie widzimy, że czas i przestrzeń są w jakiś sposób powiązane i trzeba je badać jednocześnie.
 Bardzo przydatne okazało się wprowadzenie pojęcia czasoprzestrzeni.
 
-## [IX. Pierwsze uwagi o czasoprzestrzeni ](rozdzial9)  
+## [IX. Pierwsze uwagi o czasoprzestrzeni ](rozdzial9) --> 
