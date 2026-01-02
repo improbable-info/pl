@@ -6,7 +6,7 @@ mathjax: true
 Pojęcie czasoprzestrzeni istniało już w mechanice klasycznej,
 gdzie oznaczało iloczyn kartezjański przestrzeni euklidesowej i czasu.
 Czas tu był dodatkowym wymiarem, ale mierzonym w innych jednostkach i niezależnym od przestrzeni.
----
+...
 <!--To, że czas i przestrzeń mogą tworzyć jeden obiekt, w którym czas i przestrzeń w jakiś sposób mogą się mieszać
 i zamieniać, uświadomił sobie już matematyk Hermann Minkowski. Wymyślił też,
 jak za pomocą czterowymiarowej czasoprzestrzeni w prostszy sposób przedstawić szczególną teorię względności.
