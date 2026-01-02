@@ -4,7 +4,7 @@ Do analizy warto zawsze wybrać na początku najprostszy model.
 Dlatego nasze rozważania rozpoczniemy od jednowymiarowej przestrzeni, którą możemy sobie wyobrażać,
 jako prostą **p**, w której mamy nieruchomego obserwatora **O**.
 Jeżeli dodamy czas, jako prostą **t** ortogonalną do przestrzeni **p**, to otrzymamy dwuwymiarową czasoprzestrzeń (rys. 8).
-
+...<!--
 ![rysunek8](../assets/img/rysunek8.png)
 
 Rysunek 8
@@ -73,4 +73,4 @@ W takim modelu nie jest naruszona zasada przyczynowości,
 bo chociaż czas lokalny dwóch obserwatorów płynie w odwrotnym kierunku, to czas kosmiczny powoduje,
 że kolejność zdarzeń jest zachowana.
 
-## [XI. Zespolony czas i interwał czasoprzestrzenny ](rozdzial11) 
+## [XI. Zespolony czas i interwał czasoprzestrzenny ](rozdzial11) -->
