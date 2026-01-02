@@ -3,8 +3,8 @@
 Jeżeli chcemy przedstawić model wszechświata w formie automatu komórkowego,
 to trzeba najpierw wyjaśnić, co to jest. Nie będziemy tu wchodzić w szczegóły,
 podamy tylko definicję i prosty przykład.
-
-Automat komórkowy jest to obiekt składający się z sieci komórek,
+...
+<!--Automat komórkowy jest to obiekt składający się z sieci komórek,
 które mogą mieć pewien stan z określonego zbioru, który zmienia się według pewnych reguł
 w zależności od stanów sąsiednich komórek. W zależności od rodzaju sieci,
 możliwych wartości komórek i wyboru algorytmu mogą istnieć bardzo różne automaty komórkowe.
@@ -32,4 +32,4 @@ z jaką mogą przemieszczać się zmiany w przestrzeni itd.
 Widzimy, że taki model ma nie tylko naturalnie płynący czas, ale jednocześnie ma i pewne właściwości kwantowe.
 Może to być jedna z możliwych dróg do modelowania Wszechświata...
 
-## [VIII. Parę słów na temat przestrzeni ](rozdzial8)
+## [VIII. Parę słów na temat przestrzeni ](rozdzial8) -->
