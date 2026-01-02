@@ -6,8 +6,8 @@ mathjax: true
 Często ten sam problem można rozwiązywać za pomocą równań matematycznych,
 albo geometrycznie. Grawitację można na przykład uznać za siłę i opisać równaniem,
 albo tłumaczyć geometrycznie, za pomocą zakrzywienia czasoprzestrzeni.
-
-*Prawdopodobnie nie chodzi tylko o użycie innego narzędzia, ale i innej półkuli mózgu.
+...
+<!--*Prawdopodobnie nie chodzi tylko o użycie innego narzędzia, ale i innej półkuli mózgu.
 Równaniami zajmuje się lewa półkula a prawa wyobraźnią geometryczną.
 Dlatego też, dla pełnego zrozumienia warto nie tylko potrafić coś obliczyć,
 ale również umieć to sobie wyobrazić.*
@@ -113,4 +113,4 @@ Mamy natomiast powody, aby zbadać sprawę dokładniej. Jeżeli założymy możl
 to z tego wynika, że nie może być przestrzenią euklidesową.
 W tym przypadku trzeba się przyjrzeć geometriom nieeuklidesowym.
 
-## [IV. Geometrie nieeuklidesowe i ustalanie odległości](rozdzial4)
+## [IV. Geometrie nieeuklidesowe i ustalanie odległości](rozdzial4) -->
