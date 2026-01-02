@@ -8,8 +8,8 @@ kiedy jednak chcę to wyjaśnić, nie wiem". Pojęcie czasu jest na tyle nieprec
 Bo co to za nauka, która opiera się na tak nieprecyzyjnym pojęciu jak czas,
 którego nikt nie widział i nikt dokładnie nie wie, czym jest.
 Barbour próbuje całą fizykę przebudować tak, aby czas w niej nie występował.
-
-Prawdą jest, że czasu nie możemy bezpośrednio obserwować.
+...
+<!--Prawdą jest, że czasu nie możemy bezpośrednio obserwować.
 Możemy jednak zauważać zmiany w otoczeniu i niektóre procesy wykorzystać jako zegar.
 W praktyce można używać różnych procesów okresowych, takich, jak obroty Ziemi czy ruch wahadła.
 Do rozważań teoretycznych dobrze nadaje się zegar świetlny, który składa się z dwóch luster,
@@ -40,4 +40,4 @@ to potrzebujemy modelu, który to w jakiś sposób uwzględnia.
 Jedną z możliwości jest wykorzystanie idei brytyjskiego fizyka Stephena Wolframa,
 który proponuje modelowanie Wszechświata, jako automatu komórkowego.
 
-## [VII. Wszechświat jako automat komórkowy](rozdzial7)
+## [VII. Wszechświat jako automat komórkowy](rozdzial7) -->
